@@ -548,7 +548,7 @@ export default function Project() {
             </div>
 
           <div className="container  px-3 sm:px-4 py-6 sm:py-8 md:py-10 ">
-        <div className="bg-gray-800 rounded-lg sm:rounded-xl p-4 sm:p-6 md:p-8 lg:p-10 flex flex-col md:flex-row justify-between items-center">
+        <div className="bg-gray-800 rounded-lg sm:rounded-xl p-4 sm:p-6 md:p-8 lg:p-10 flex flex-col  justify-between items-center">
           <div className="mb-4 md:mb-0 text-center md:text-left w-full md:w-3/4">
             <h2 className="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-bold mb-2 md:mb-3">
               Membership in Professional Associations:
