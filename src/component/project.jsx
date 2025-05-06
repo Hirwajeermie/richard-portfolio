@@ -547,13 +547,13 @@ export default function Project() {
             </ul>
             </div>
 
-          <div className="container  px-3 sm:px-4 py-6 sm:py-8 md:py-10 ">
-        <div className="bg-gray-800 rounded-lg sm:rounded-xl p-4 sm:p-6 md:p-8 lg:p-10 flex flex-col  justify-between items-center">
-          <div className="mb-4 md:mb-0 text-center md:text-left w-full md:w-3/4">
-            <h2 className="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-bold mb-2 md:mb-3">
+          <div className="container  px-3 sm:px-4 py-6 sm:py-8 ">
+        <div className="bg-gray-800 rounded-lg sm:rounded-xl p-4 sm:p-6 lg:p-10 flex flex-col  justify-between items-center">
+          <div className="mb-4  text-center w-full">
+            <h2 className="text-xl sm:text-2xl lg:text-4xl font-bold mb-2">
               Membership in Professional Associations:
             </h2>  
-            <p className="text-xs sm:text-xl text-gray-400 max-w-xl mx-auto md:mx-0">
+            <p className="text-xs sm:text-xl text-gray-400 max-w-xl mx-auto">
             <span>
               <svg 
                    className="w-4 h-4 md:w-6 md:h-6 lg:w-6 lg:h-6 text-whlite-500" 
@@ -578,7 +578,7 @@ export default function Project() {
              </span>Member of technical advisory board of EarthEnable in their mission to promote the use of earth materials in construction.
             </p>
           </div>
-          <div className="mt-4 md:mt-0 md:ml-4">
+          <div className="mt-4 ">
             <button 
               className="bg-cyan-400 hover:bg-cyan-500 text-gray-900 font-medium px-4 sm:px-6 py-2 sm:py-3 rounded-lg transition-colors w-full sm:w-auto"
               onClick={() => {
@@ -601,7 +601,7 @@ export default function Project() {
       </div>
         </div>
         <div>
-           <h3 className="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-bold text-center text-black mb-2 md:mb-3">
+           <h3 className="text-xl sm:text-2xl  lg:text-4xl font-bold text-center text-black mb-2">
             Professional Relationships</h3>
         </div>
         <div className="w-full bg-gray-100 py-6">  
