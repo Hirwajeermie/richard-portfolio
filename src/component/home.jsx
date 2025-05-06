@@ -166,14 +166,11 @@ export default function Home() {
               </ul>
               
               <div className="flex space-x-4">
-                <a href="#" className="p-2 rounded-full border border-gray-600 hover:border-blue-400">
-                  <Linkedin size={18} />
+                <a href="tel:+250788755102" className="p-2 rounded-full border border-gray-600 hover:border-blue-400">
+                  <FaPhoneAlt size={18} />
                 </a>
-                <a href="#" className="p-2 rounded-full border border-gray-600 hover:border-blue-400">
-                  <Facebook size={18} />
-                </a>
-                <a href="#" className="p-2 rounded-full border border-gray-600 hover:border-blue-400">
-                  <Instagram size={18} />
+                <a href="https://wa.me/+250788755102" className="p-2 rounded-full border border-gray-600 hover:border-blue-400">
+                  <FaWhatsapp size={18} />
                 </a>
               </div>
               
