@@ -273,7 +273,7 @@ export default function Home() {
             </div>
         </section>
         
-        {/* Small rocket decoration */}
+        {/* Small rocket decoration
         <div className="hidden md:block absolute right-20 top-64 transform rotate-45">
           <svg width="40" height="40" viewBox="0 0 40 40" fill="none">
             <path d="M20 5 L25 15 L15 15 Z" fill="#FF5252" />
@@ -282,7 +282,7 @@ export default function Home() {
             <path d="M15 25 L12 30 L15 28" fill="#FF7B7B" />
             <path d="M25 25 L28 30 L25 28" fill="#FF7B7B" />
           </svg>
-        </div>
+        </div> */}
       </div>
       {/* Contact Icons */}
       <ContactIcons />
