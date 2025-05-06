@@ -213,7 +213,7 @@ export default function Home() {
           <div className="Homeb">
             <div className="Home-left">
             <div className="flex flex-col md:flex-row items-center">
-            <div className="w-full md:w-1/2 pb-8 md:pb-0">
+            <div className="w-full pb-8 ">
               <div className="Move-text inline-block px-4 py-2 bg-gray-900 text-white rounded-md mb-4">
                 Welcome to my Portfolio
               </div>
