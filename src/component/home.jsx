@@ -206,11 +206,10 @@ export default function Home() {
           </div>
         </header>
               
-        <section className="container mx-auto px-4 py-12 md:py-24">
+        <section className=" mx-auto px-4 py-12">
           <div className='Introd-text font-bold'>
             <h1 className="text-black m-auto font-bold">Richard SHUMBUSHO: GEOTECHNICAL EXPERT& CIVIL ENGINEER </h1>
           </div>
-
           <div className="Homeb">
             <div className="Home-left">
             <div className="flex flex-col md:flex-row items-center">
