@@ -145,7 +145,7 @@ export default function Home() {
       {/* Main content */}
       <div className="relative z-10">
         {/* Header */}
-        <header className="container bg-gray-900 text-white fixed mx-auto px-4 py-2 w-full">
+        <header className="bg-gray-900 text-white fixed  px-4 py-2 w-full">
           <div className="flex justify-between items-center">
             <div className="text-2xl font-bold"></div>
             
@@ -208,7 +208,7 @@ export default function Home() {
               
         <section className="container mx-auto px-4 py-12 md:py-24">
           <div className='Introd-text font-bold'>
-            <h1 className="text-black font-bold">Richard SHUMBUSHO: GEOTECHNICAL EXPERT& CIVIL ENGINEER </h1>
+            <h1 className="text-black m-auto font-bold">Richard SHUMBUSHO: GEOTECHNICAL EXPERT& CIVIL ENGINEER </h1>
           </div>
 
           <div className="Homeb">
@@ -218,10 +218,10 @@ export default function Home() {
               <div className="Move-text inline-block px-4 py-2 bg-gray-900 text-white rounded-md mb-4">
                 Welcome to my Portfolio
               </div>
-              <h1 className="text-4xl md:text-xl font-bold mb-6 underline">
+              <h1 className="text-4xl m-auto md:text-xl font-bold mb-6 underline">
                 About me - Geotechnical Engineer/Geotechnical Specialist
               </h1>
-              <p className="text-black-300 m-8 auto f-line">
+              <p className="text-black-300 m-8 f-line">
               I am a dedicated and results-driven geotechnical engineer with over a decade of academic and professional 
               experience in civil, geotechnical, and highway engineering. My work combines technical depth, 
               research-based innovation, and practical insight, enabling me to deliver tailored, reliable solutions 
@@ -233,8 +233,6 @@ export default function Home() {
               My research focused on the stabilization of expansive soils using fly ash and lime, 
               exploring sustainable ground improvement techniques with practical implications
                for infrastructure development. 
-              
-              
               </p>
               
               <div>

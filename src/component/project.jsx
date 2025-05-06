@@ -465,7 +465,6 @@ export default function Project() {
       quote6: " Site supervision when delegated by site engineer.",
       quote7: " I also got exposure on the following: construction of earthdams, concrete dams, canals, etc.; implication of soil mechanics in construction of rural roads and earthdams; construction of rural bridges; etc.",
     },
-
   ];
   
   const [currentSlide, setCurrentSlide] = useState(0);
@@ -502,8 +501,7 @@ export default function Project() {
           <div className="mb-4 sm:mb-6 md:mb-0 max-w-full md:max-w-lg">
             <h2 className="text-2xl text-black sm:text-3xl md:text-4xl lg:text-5xl font-bold mb-2 sm:mb-4">
               Locations of projects worked on/countries of work experience
-            </h2>
-            
+            </h2> 
           </div>
           <div className="max-w-full w-md-75 w-lg-50 m-auto md:m-0 md:max-w-md">
           <ul className="flex  space-x-8">
@@ -531,8 +529,7 @@ export default function Project() {
                 <p className="text-gray-900 text-lg sm:text-xl md:text-2xl py-2 sm:py-4 md:py-6 lg:py-8">
                 Angola<span ><img className="m-auto w6 h-6 md:w-6 md:h-6 lg:w-8 lg:h-6 " src={Angola} alt="" /></span>
                 </p>
-              </li>
-              
+              </li> 
             </ul>
           </div>
           <div className="max-w-full w-md-75 w-lg-50 m-auto md:m-0 md:max-w-md">
@@ -550,16 +547,13 @@ export default function Project() {
             </ul>
             </div>
 
-          <div className="container mx-auto px-3 sm:px-4 py-6 sm:py-8 md:py-10 lg:py-12">
+          <div className="container  px-3 sm:px-4 py-6 sm:py-8 md:py-10 ">
         <div className="bg-gray-800 rounded-lg sm:rounded-xl p-4 sm:p-6 md:p-8 lg:p-10 flex flex-col md:flex-row justify-between items-center">
           <div className="mb-4 md:mb-0 text-center md:text-left w-full md:w-3/4">
             <h2 className="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-bold mb-2 md:mb-3">
               Membership in Professional Associations:
-            </h2>
-            
+            </h2>  
             <p className="text-xs sm:text-xl text-gray-400 max-w-xl mx-auto md:mx-0">
-            
-            
             <span>
               <svg 
                    className="w-4 h-4 md:w-6 md:h-6 lg:w-6 lg:h-6 text-whlite-500" 
@@ -570,8 +564,7 @@ export default function Project() {
                >
                 <path strokeLinecap="round" strokeLinejoin="round" d="m5.25 4.5 7.5 7.5-7.5 7.5m6-15 7.5 7.5-7.5 7.5" />
                </svg>
-            </span>Member of Institute of Engineers Rwanda (IER).
-              
+            </span>Member of Institute of Engineers Rwanda (IER).   
             <span>
               <svg 
                  className="w-4 h-4 md:w-6 md:h-6 lg:w-6 lg:h-6 text-whlite-500" 
@@ -607,14 +600,11 @@ export default function Project() {
         </div>
       </div>
         </div>
-
         <div>
            <h3 className="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-bold text-center text-black mb-2 md:mb-3">
             Professional Relationships</h3>
         </div>
-        
-        <div className="w-full bg-gray-100 py-6">
-          
+        <div className="w-full bg-gray-100 py-6">  
       <div className="max-w-6xl mx-auto px-4">
         {/* Partners Logo Section */}
         <div className="flex flex-wrap justify-center gap-4">
@@ -630,8 +620,7 @@ export default function Project() {
                   alt={partner.name} 
                   className="max-h-12 max-w-full"
                 />
-              </div>
-              
+              </div>  
               {/* Label Text */}
               <p className="text-xs sm:text-lg font-bold  text-gray-600">{partner.label}</p>
             </div>
@@ -662,17 +651,12 @@ export default function Project() {
             <TestimonialCard key={testimonial.id} testimonial={testimonial} />
           ))}
         </div>
-        
-      </div>
-      
+      </div> 
     </section>
   );
 }
 
-
 function TestimonialCard({ testimonial }) {
-
-
   return (
     <div className="bg-gray-800 p-4 sm:p-6 md:p-8 rounded-lg hover:bg-gray-750 transition-colors">
       <div className="py-2 sm:py-3 md:py-5 flex justify-center items-center">
