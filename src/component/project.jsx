@@ -498,8 +498,8 @@ export default function Project() {
     <section id="Project" className="bg-gray-90 text-white py-8 sm:py-12 md:py-16 lg:py-24">
       <div className="container px-4 sm:px-6 md:px-8 mx-auto">
         <div className="flex flex-col justify-between items-start m-auto mb-8 sm:mb-10 lg:mb-16">
-          <div className="mb-4 sm:mb-6 md:mb-0 max-w-full md:max-w-lg">
-            <h2 className="text-2xl text-black sm:text-3xl text-center lg:text-5xl font-bold mb-2 sm:mb-4">
+          <div className="mb-4 sm:mb-6 max-w-full ">
+            <h2 className="text-2xl text-black m-auto sm:text-3xl text-center lg:text-5xl font-bold mb-2 sm:mb-4">
               Locations of projects worked on/countries of work experience
             </h2> 
           </div>
@@ -532,7 +532,7 @@ export default function Project() {
               </li> 
             </ul>
           </div>
-          <div className="max-w-full w-md-75 w-lg-50 m-auto md:m-0 md:max-w-md">
+          <div className="max-w-full w-md-75 w-lg-50 m-auto ">
             <ul className="flex space-x-8">
             <li>
                 <p className="text-gray-900 text-lg sm:text-xl md:text-2xl py-2 sm:py-4 md:py-6 lg:py-8">
