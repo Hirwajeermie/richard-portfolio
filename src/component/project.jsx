@@ -583,11 +583,11 @@ export default function Project() {
               className="bg-cyan-400 hover:bg-cyan-500 text-gray-900 font-medium px-4 sm:px-6 py-2 sm:py-3 rounded-lg transition-colors w-full sm:w-auto"
               onClick={() => {
                 // You can either open the CV in a new tab
-                window.open('/public/Richard-CV.pdf', '_blank');
+                window.open('./public/Richard-CV.pdf', '_blank');
                 
                 // Or trigger a download
                  const link = document.createElement('a');
-                 link.href = '/public/Richard-CV.pdf';
+                 link.href = './public/Richard-CV.pdf';
                  link.download = 'Richard-CV.pdf';
                  document.body.appendChild(link);
                  link.click();
