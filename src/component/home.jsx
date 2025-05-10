@@ -208,11 +208,11 @@ export default function Home() {
             <div className="Home-left">
             <div className="flex flex-col md:flex-row items-center">
             <div className="w-full pb-8 ">
-              <div className="Move-text inline-block px-4 mx-8  py-2 bg-gray-900 text-white rounded-md mb-4">
+              <div className="Move-text inline-block px-4 mx-8 m-auto py-2 bg-gray-900 text-white rounded-md mb-4">
                 Welcome to my Portfolio
               </div>
               <div className="">
-              <h1 className="text-4xl m-3 mx-8  md:text-xl font-bold underline">
+              <h1 className="text-4xl m-3 mx-8 m-auto md:text-xl font-bold underline">
                 About me - Geotechnical Engineer/Geotechnical Specialist
               </h1>
               </div>
