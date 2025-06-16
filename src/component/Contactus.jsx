@@ -44,7 +44,7 @@ const Contactus = () => {
     <div className='Contact' id='Contactus'>
       
         <div className='contact-col'>
-            <h3>Send me a massage <img src={Massage} alt="" /></h3>
+            <h3>Send me a message <img src={Massage} alt="" /></h3>
             <p>Feel free to reach out through contact from or find
                 our contact information below. Your feedback, questions, 
                 and suggestions are important to us as we strive to provide 
