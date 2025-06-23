@@ -92,13 +92,7 @@ export default function Home() {
        in geotechnically challenging environments. This research led to the development
         of published and unpublished manuscripts, contributing to the advancement of 
         scientific knowledge in the field..
-        Driven by a commitment to advancing my expertise, I returned to the University 
-      of Birmingham to undertake more advanced postgraduate studies through a research degree. 
-      This work focused on the use of geosynthetics in the construction of low-volume 
-      roads built on weak expansive soils—an area critical to infrastructure development
-       in geotechnically challenging environments. This research led to the development
-        of published and unpublished manuscripts, contributing to the advancement of 
-        scientific knowledge in the field. Professionally, I have served as a geotechnical 
+       Professionally, I have served as a geotechnical 
         consultant on numerous construction and infrastructure projects across Rwanda, and 
         I have also been involved in several international assignments. My areas of 
         specialization include geotechnical investigations, slope stability analysis, 
