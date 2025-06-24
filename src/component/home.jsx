@@ -91,14 +91,14 @@ export default function Home() {
       roads built on weak expansive soils—an area critical to infrastructure development
        in geotechnically challenging environments. This research led to the development
         of published and unpublished manuscripts, contributing to the advancement of 
-        scientific knowledge in the field..
+        scientific knowledge in the field.
        Professionally, I have served as a geotechnical 
         consultant on numerous construction and infrastructure projects across Rwanda, and 
         I have also been involved in several international assignments. My areas of 
         specialization include geotechnical investigations, slope stability analysis, 
         foundation design, soil improvement, pavement engineering, and problematic ground
-         conditions such as expansive soils, soft soils, and collapsible soils. I am also 
-         currently involved in geotechnical aspects associated with mining projects.
+        conditions such as expansive soils, soft soils, and collapsible soils. I am also 
+       currently involved in geotechnical aspects associated with mining projects.
       Alongside my consultancy work, I serve on the academic staff at the University
        of Rwanda, where I teach/have taught core courses such as Soil Mechanics, Rock Mechanics, 
        Engineering Mechanics, and Volcanology. I am passionate about bridging the gap between 
