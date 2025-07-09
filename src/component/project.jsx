@@ -97,7 +97,7 @@ export default function Project() {
     },
     {
       id: 1,
-      description2: "Year: 2022 - 2025",
+      description2: "Year: 2024 - 2025",
       description1: "Name of the project or assignment: Upgradation of Nyamata 30/30 KV Switching Substation and Rehabilitation of Distributed Substations in Rubavu, Muhanga and secondary cities, as well as Upgrade of Gikondo, Nzove, and Gahanga Substations",
       quote1: "Project Location: Across Rwanda ",
       quote3: "Project description: The project consists of two parts. Part 1: Construction of new 30 kV switching substations and associated MV lines (overhead & underground) and rehabilitation of old cabins and MV line links (U.G &O.H) located in the different secondary cities of Rwanda where there is a need to connect new or rehabilitated cabins to existing MV and LV network, and Part 2: Upgrade of Gikondo, Nzove, Gahanga Substations.",
@@ -107,7 +107,7 @@ export default function Project() {
     },
     {
       id: 1,
-      description2: "Year: 2022 - 2024",
+      description2: "Year: 2024 - 2025",
       description1: "Name of the project or assignment: Gatuna One Stop Boarder Post Project",
       quote1: "Project Location: Gicumbi District, Rwanda ",
       quote4: "Position Held: Geotechnical consultant",
