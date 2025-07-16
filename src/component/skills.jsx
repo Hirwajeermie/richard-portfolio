@@ -1,9 +1,9 @@
 import React from "react";
 import "./skills.css"
 import { ExternalLink } from "lucide-react";
-import Plaxis from "../assets/plaxis.png";
-import Geotechnical from "../assets/geotechnica.png";
-import Civil from "../assets/Civil.png";
+// import Plaxis from "../assets/plaxis.png";
+// import Geotechnical from "../assets/geotechnica.png";
+// import Civil from "../assets/Civil.png";
 
 export default function skills() {
   const projects = [
@@ -11,21 +11,21 @@ export default function skills() {
       id: 1,
       title: "Rural roads for development course (2017) – Birmingham, UK",
       description: "  ",
-      img: Plaxis,
+      // img: Plaxis,
       
     },
     {
       id: 2,
       title: "Workshop on the use of geogrids in civil engineering projects (2019) organized by TENSAR – one of the largest manufacturers of geogrids – Warrington, UK",
       description: "",
-      img: Civil,
+      // img: Civil,
       
     },
     {
       id: 3,
       title: "Expert training with PrimECS – Master builder academy (2024)",
       description: "  ",
-      img: Geotechnical,
+      // img: Geotechnical,
      
     },
   ];
